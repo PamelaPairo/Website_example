@@ -15,7 +15,7 @@
 
   [es.params]
    description = "Sitio en español"
-  [[zh.menu.main]]
+  [[es.menu.main]]
     name = "es"
     url = "#about"
     weight = 1
