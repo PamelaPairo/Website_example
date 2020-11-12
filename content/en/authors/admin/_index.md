@@ -38,7 +38,7 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/
 superuser: true
-title: Nelson Bighetti
+title: Ana Perez
 user_groups:
 - Principal Investigators
 ---
